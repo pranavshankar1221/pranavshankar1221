@@ -1,4 +1,4 @@
-# 🚀 AI & Machine Learning Enthusiast | Focused Software Developer  
+#  AI & Machine Learning Enthusiast | Focused Software Developer  
 
 **Computer Science Student passionate about building intelligent, scalable, and efficient software solutions**
 
@@ -55,29 +55,20 @@
 ## 📊 LeetCode Statistics
 
 ### 🔥 Overall Performance
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pranav shankar?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
 ### 📈 Problem Solving Progress
-![LeetCode Graph](https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark)
+![LeetCode Graph](https://leetcode-stats.vercel.app/api?username=Pranav shankar&theme=dark)
 
 ---
 
 ### 🟩 Coding Activity Heatmap
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark)
-
----
-
-## 🏆 Achievements
-- ✅ **181+ LeetCode Problems Solved**
-- 🔥 **100 Days & 50 Days Coding Streak**
-- 💡 Strong in **DSA, ML & Full-Stack Development**
-
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavshankar1221&theme=github-dark)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-shankar-b52aa2328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-link)
 
 ---
