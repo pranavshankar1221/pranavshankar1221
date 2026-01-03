@@ -55,12 +55,12 @@
 ## 📊 LeetCode Statistics
 
 ### 🔥 Overall Performance
-![LeetCode Stats](https://leetcard.jacoblin.cool/Pranav shankar?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/https://leetcode.com/u/8VEFC3qtRu/?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
 ### 📈 Problem Solving Progress
-![LeetCode Graph](https://leetcode-stats.vercel.app/api?username=Pranav shankar&theme=dark)
+![LeetCode Graph](https://leetcode-stats.vercel.app/api?username=https://leetcode.com/u/8VEFC3qtRu/&theme=dark)
 
 ---
 
