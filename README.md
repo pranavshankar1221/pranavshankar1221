@@ -60,7 +60,7 @@
 ---
 
 ### Problem Solving Progress
-![LeetCode Graph](https://leetcode-stats.vercel.app/api?username=8VEFC3qtRu&theme=dark)
+![LeetCode Graph](https://leetcode-stats.vercel.app/api?username=Pranavshankar21&theme=dark)
 
 ---
 
