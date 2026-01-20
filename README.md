@@ -59,7 +59,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavshankar1221&theme=github-dark)
 
 ## Connect With Me
-[![Email](https://img.shields.io/badge/Email-Connect%20with%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavshankar1221@gmail.com)
+[![Email](https://img.shields.io/badge/EmailD14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavshankar1221@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-shankar-b52aa2328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-link)
 
