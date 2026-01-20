@@ -55,7 +55,7 @@
 ## LeetCode Statistics
 
 ### Overall Performance
-![LeetCode Stats](https://leetcard.jacoblin.cool/8VEFC3qtRu?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pranavshankar21?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
