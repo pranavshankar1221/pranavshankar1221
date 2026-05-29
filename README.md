@@ -58,7 +58,9 @@
 
 ### Coding Activity Heatmap
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavshankar1221\&theme=github-dark)
+### Coding Activity Heatmap
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavshankar1221&theme=github-dark)
 
 ---
 
