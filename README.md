@@ -58,11 +58,12 @@
 
 
 
-### GitHub Contributions
+## GitHub Contributions
 
-[![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavshankar1221\&bg_color=0d1117\&color=00ff00\&line=00ff00\&point=ffffff\&area=true\&hide_border=true)](https://github.com/pranavshankar1221)
 
-![GitHub Contribution Grid](https://ghchart.rshah.org/00ff00/pranavshankar1221)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavshankar1221&theme=github-dark&hide_border=true&area=true" />
+</p>
 
 
 ---
